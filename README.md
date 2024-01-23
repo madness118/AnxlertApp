@@ -1,5 +1,4 @@
 # <div align="center">Anxlert App</div>
-# <div align="center">Anxlert App</div>
 
 <div align="center"><i>Developed by Madelyn Lee</i></div>
 <div align="center"><i>Research and design done by Kayle Ho, Cheuk Lam Li, Anya Chan</i></div>
